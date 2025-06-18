@@ -1,0 +1,4 @@
+/usr/bin/CryptoMain
+/usr/lib/libElGamal.so
+/usr/lib/libHillCipher.so
+/usr/lib/libShamirProtocol.so

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/CryptoMain.dir/src/main.cpp.o -o bin/CryptoMain  -Wl,-rpath,/home/dasha/Изображения/crypto_project/build/lib: lib/libElGamal.so lib/libHillCipher.so lib/libShamirProtocol.so 

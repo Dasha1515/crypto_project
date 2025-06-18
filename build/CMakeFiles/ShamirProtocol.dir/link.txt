@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libShamirProtocol.so -o lib/libShamirProtocol.so CMakeFiles/ShamirProtocol.dir/src/shamir/shamir.cpp.o 

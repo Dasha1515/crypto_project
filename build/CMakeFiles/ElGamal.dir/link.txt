@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libElGamal.so -o lib/libElGamal.so CMakeFiles/ElGamal.dir/src/gaml/gaml.cpp.o 

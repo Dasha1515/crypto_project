@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libHillCipher.so -o lib/libHillCipher.so CMakeFiles/HillCipher.dir/src/hill/hill.cpp.o 
